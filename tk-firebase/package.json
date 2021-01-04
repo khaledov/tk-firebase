@@ -1,0 +1,21 @@
+{
+  "name": "@takwin-core/tk-firebase",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.0.5",
+    "@angular/core": "^11.0.5",
+    "@angular/fire": "^6.1.4",
+    "firebase": "^8.2.1"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/takwin-core-tk-firebase.umd.js",
+  "module": "fesm2015/takwin-core-tk-firebase.js",
+  "es2015": "fesm2015/takwin-core-tk-firebase.js",
+  "esm2015": "esm2015/takwin-core-tk-firebase.js",
+  "fesm2015": "fesm2015/takwin-core-tk-firebase.js",
+  "typings": "takwin-core-tk-firebase.d.ts",
+  "metadata": "takwin-core-tk-firebase.metadata.json",
+  "sideEffects": false
+}

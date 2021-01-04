@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of tk-firebase
+ */
+export * from './lib/tk-firebase.service';
+export * from './lib/tk-firebase.module';
+export * from './lib/entity.model';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIuLi8uLi8uLi9wcm9qZWN0cy90ay1maXJlYmFzZS9zcmMvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsb0JBQW9CLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgdGstZmlyZWJhc2VcclxuICovXHJcblxyXG5leHBvcnQgKiBmcm9tICcuL2xpYi90ay1maXJlYmFzZS5zZXJ2aWNlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvdGstZmlyZWJhc2UubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvZW50aXR5Lm1vZGVsJztcclxuIl19
